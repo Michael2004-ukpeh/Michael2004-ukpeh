@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-A brief introduction:
+
 - 🎓 Studied Computer Science
 - 💼 Available to Backend and Solana Blockchain Development roles
 - 🤔 Interested in **Blockchain,AI, Web Development,Distributed Systems**
@@ -13,7 +13,6 @@ A brief introduction:
 
 ## 🛠️ Technologies & Tools
 
-A list of technologies you’re skilled in or enjoy working with:
 - **Languages:** Rust, Typescript, Javascript
 - **Frontend:** React, HTML, CSS, Next
 - **Backend:** Node.js, Express, MongoDB, Axum
@@ -35,4 +34,4 @@ A list of technologies you’re skilled in or enjoy working with:
 Feel free to reach out if you want to collaborate on a project, discuss tech, or just say hi!
 
 - Email: marcelukpeh@gmail..com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/michael-ukpeh-a732341a6/)
+- LinkedIn: [Michael Ukpeh](https://www.linkedin.com/in/michael-ukpeh-a732341a6/)
