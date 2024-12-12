@@ -25,7 +25,7 @@
 
 ![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Michael2004-ukpeh&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michael2004-ukpeh&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michael2004-ukpeh&layout=compact&theme=radical)
 
 ---
 
