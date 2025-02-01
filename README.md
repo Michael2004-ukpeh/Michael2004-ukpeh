@@ -1,6 +1,7 @@
 # Hi there, I'm Michael! 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/Michael2004-ukpeh?label=Follow&style=social)](https://github.com/Michael2004-ukpeh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/michael-ukpeh-a732341a6/)
+[![GitHub followers](https://img.shields.io/github/followers/Michael2004-ukpeh?label=Follow&style=social)](https://github.com/Michael2004-ukpeh) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/michael-ukpeh-a732341a6/)
 
 ## 🚀 About Me
 
