@@ -16,7 +16,7 @@
 
 - **Languages:** Rust, Typescript, Javascript
 - **Frontend:** React, HTML, CSS, Next
-- **Backend:** Node.js, Express, MongoDB, Axum
+- **Backend:** Node.js,NestJS, Express, MongoDB, Axum
 - **Tools:** Git, Docker, VSCode,
 - **Blockchain:** Solana, Anchor
 
@@ -26,7 +26,8 @@
 
 ![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Michael2004-ukpeh&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michael2004-ukpeh&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michael2004-ukpeh&layout=compact&theme=radical&show_icons=tr
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Michael2004-ukpeh&" alt="Michael2004-ukpeh" /></p>
 
 ---
 
