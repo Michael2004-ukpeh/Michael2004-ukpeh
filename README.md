@@ -14,7 +14,7 @@
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Rust, Typescript, JavaScript
+- **Languages:** Rust, Typescript, JavaScript,Python
 - **Frontend:** React, HTML, CSS, Next
 - **Backend:** Node.js, NestJS, Express, MongoDB, Axum
 - **Tools:** Git, Docker, VSCode,
