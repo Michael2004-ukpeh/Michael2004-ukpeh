@@ -7,14 +7,14 @@
 
 
 - 🎓 Studied Computer Science
-- 💼 Available to Backend and Solana Blockchain Development roles
-- 🤔 Interested in **AI, Distributed Systems, Blockchain, Web Development**
+
+- 🤔 Interested in **AI and Distributed Systems**
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Rust, Typescript, JavaScript,Python
+- **Languages:** Rust, Typescript, JavaScript, Python
 - **Frontend:** React, HTML, CSS, Next
 - **Backend:** Node.js, NestJS, Express, MongoDB, Axum
 - **Tools:** Git, Docker, VSCode,
