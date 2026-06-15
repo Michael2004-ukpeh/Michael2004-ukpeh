@@ -19,7 +19,7 @@
 - **Backend:** Node.js, NestJS, Express, MongoDB, Axum
 - **Tools:** Git, Docker, VSCode,
 - **Database:** MongoDB, Postgresql
-- **Blockchain:** Solana, Anchor
+
 
 ---
 
